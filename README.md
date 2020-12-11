@@ -13,6 +13,7 @@
   
 - 📫 View my works on Here: 
   - https://www.zimin-portfolio.info
+  - https://medium.com/@quswlals822
 
 
 
