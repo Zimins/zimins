@@ -6,14 +6,12 @@
 
 
 - 🔭 Working on
-  - Android, Flutter, Kotlin, dart
-  
-- 🌱 Learnings
-  - Unity, Flutter 
+  - Android, Flutter, Kotlin, flutter, Claude code 
   
 - 📫 View my works on Here: 
   - https://www.zimin-portfolio.info
-  - https://medium.com/@quswlals822
+  - https://medium.com/@zimins
+
 
 
 
