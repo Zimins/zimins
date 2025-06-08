@@ -9,8 +9,8 @@
   - Android, Flutter, Kotlin, flutter, Claude code 
   
 - 📫 View my works on Here: 
-  - https://www.zimin-portfolio.info
-  - https://medium.com/@zimins
+  - https://zimins.com
+  - https://medium.com/@co-zi
 
 
 
