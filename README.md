@@ -1,6 +1,8 @@
 <img src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/source.gif" alt="hello" width="200" height="200">
 
-모바일에서 돌아가는 프로그램 만드는 것을 좋아합니다. 
+요즘 회사 운영하면서, AI agent를 너무 재밌고 유용하게 활용하고 있습니다. 
+
+https://lightsoft.dev
 
 개발 과정에서 불편한 점이 있으면 그것도 프로그램을 제작해서 해결해보는 편입니다. 
 
