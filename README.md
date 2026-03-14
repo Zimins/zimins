@@ -10,9 +10,10 @@ https://lightsoft.dev
 - 🔭 Working on
   - Android, Flutter, Kotlin, flutter, Claude code 
   
-- 📫 View my works on Here: 
-  - https://zimins.com
-  - https://medium.com/@co-zi
+- 📫 follow me
+  - https://lightsoft.dev
+  - https://www.threads.com/@cozi_hobby
+  - https://www.threads.com/@lightsoft_crew
 
 
 
