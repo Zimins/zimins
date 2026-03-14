@@ -8,7 +8,7 @@ https://lightsoft.dev
 
 
 - 🔭 Working on
-  - Android, Flutter, Kotlin, flutter, Claude code 
+  - Agentic coding with Claude code and etc
   
 - 📫 follow me
   - https://lightsoft.dev
